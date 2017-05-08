@@ -1,0 +1,28 @@
+.body {
+    padding: 20px;
+    background-color: black;
+}
+
+.headDiv {
+    height: 300px;
+    background-image: url("../img/burgers.jpg");
+    background-repeat: no-repeat;
+    margin: auto;
+    background-position: center;
+}
+
+.container {
+   background-color: red;
+   width: 100%;
+   max-width: 800px;
+   padding: 20px;
+   outline: 1px bold #000000;
+}
+.bottom {
+    width: 100%;
+    margin: auto;
+}
+.section {
+    outline: 1px bold #ffffff;
+
+}
