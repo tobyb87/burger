@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "burgersequelized",
   "version": "1.0.0",
   "description": "burger app",
   "main": "index.js",
@@ -22,7 +22,8 @@
     "express": "^4.15.2",
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.8",
-    "mysql": "^2.13.0"
+    "mysql": "^2.13.0",
+    "sequelize": "^4.0.0"
   },
   "devDependencies": {},
   "keywords": []
